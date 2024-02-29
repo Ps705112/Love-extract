@@ -2,8 +2,7 @@
 {
     "name": "Allinonebot",
     "description": "ALLINONEBOT",
-    "repository": "https://github.com/stubbornlove-",
-    "keywords": [
+    "repository": "https://github.com/pkvgithub/Love-extract"
         "telegram bot",
         "pyrogram"
     ],
