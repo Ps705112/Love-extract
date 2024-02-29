@@ -2,10 +2,11 @@
 {
     "name": "Allinonebot",
     "description": "ALLINONEBOT",
-    "repository": "https://github.com/pkvgithub/Love-extract"
+    "repository": "https://github.comt-",
+    "keywords": [
         "telegram bot",
         "pyrogram"
-    
+    ],
     "env": {
             "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps",
